@@ -10,6 +10,6 @@ Analyse suitable country, investment type and sector for sparks.
 Analyse the loan defaulters for a banking company
 
 
-**2.) Geely Auto Regression:**
+**3.) Geely Auto Regression:**
 
 Linear regression implementation for Geely Auto data set
