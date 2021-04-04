@@ -5,7 +5,11 @@ Machine learning project work
 
 Analyse suitable country, investment type and sector for sparks.
 
-**1.) Lending Club:**
+**2.) Lending Club:**
 
 Analyse the loan defaulters for a banking company
 
+
+**2.) Geely Auto Regression:**
+
+Linear regression implementation for Geely Auto data set
