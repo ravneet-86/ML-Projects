@@ -13,3 +13,9 @@ Analyse the loan defaulters for a banking company
 **3.) Geely Auto Regression:**
 
 Linear regression implementation for Geely Auto data set
+
+
+**3.) Telecom Churn:**
+
+Build a predictive model to indentify the customers likely to churn and 
+analyse for reason of the churns.
